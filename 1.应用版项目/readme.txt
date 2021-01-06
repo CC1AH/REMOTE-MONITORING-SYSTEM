@@ -1,5 +1,9 @@
-config.txtÀïÃæÊÇ·şÎñÆ÷µÄipµØÖ·ºÍ¶Ë¿Ú
+è¿è¡Œåœ¨PC
+server in linux strawberry pie
+end in linux/windows/mac PC
 
-ÏÈÆô¶¯server.py
+config.txté‡Œé¢æ˜¯æœåŠ¡å™¨çš„ipåœ°å€å’Œç«¯å£
 
-È»ºóÆô¶¯app.py
+å…ˆå¯åŠ¨server.py
+
+ç„¶åå¯åŠ¨app.py
