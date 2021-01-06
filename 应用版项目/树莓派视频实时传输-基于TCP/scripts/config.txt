@@ -1,2 +1,0 @@
-ip:3x12i02966.picp.vip
-port:13818
